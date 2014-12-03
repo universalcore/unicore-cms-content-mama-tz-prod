@@ -6,12 +6,12 @@
   "primary_category": "06a501102ad64d58a230366f9c1dd059", 
   "created_at": "2014-10-21T12:28:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-12-03T12:38:50.536878+00:00", 
+  "modified_at": "2014-12-03T14:55:51.770388+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -23,7 +23,7 @@
   "image": null, 
   "published": true, 
   "position": 1, 
-  "image_host": "http://qa.thumbor.unicore.io", 
+  "image_host": "http://thumbor.unicore.io", 
   "slug": "baba-mtendaji", 
   "uuid": "070a1bc1b821447a9fe88fde4460c14a"
 }
