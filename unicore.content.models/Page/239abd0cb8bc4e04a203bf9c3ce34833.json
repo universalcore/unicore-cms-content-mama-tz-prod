@@ -6,18 +6,21 @@
   "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
   "created_at": "2014-10-26T15:43:25+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-18T15:54:53.972582+00:00", 
+  "modified_at": "2015-01-18T15:55:28.533992+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "cc2b63621a5e4b7eb63874ead1bd587e", 
+    "61ee5a42ebe64ecca78fe74d6a04fe90"
+  ], 
   "id": "239abd0cb8bc4e04a203bf9c3ce34833", 
   "content": "Zilizoundwa na BabyCenter \r\n\r\nMtoto wako anaendelea kuwa mwepesi wa kutembeza\r\nviungo vyake. Anaweza kufurahia kufungua na kufunga vidole vyake, au kupiga\r\nmakofi. \r\n\r\nUcheshi wa mtoto wako pia unakua. Kumtekenya au kumbusu kwa sauti\r\nkwenye tumbo kunaweza kumchekesha. \r\n\r\nTangu kuzaliwa kwake, mtoto wako hupenda\r\nkuguswa. Ni muhimu kwa ukuaji na maendeleo yake. Kumkanda taratibu mwilini\r\nwake baada ya kumuogesha au kumkumbatia kwa muda mrefu kabla hajalala ni kitu\r\nkizuri kwa nyote wawili. \r\n\r\nKucheza peke yake kunausaidia ubongo wa mtoto wako\r\nkukua. Ubongo wake unavyokua, ndivyo anavyozidi kuwa mdadisi. Anaweza kucheza\r\nna kitu kidogo cha kuchezea anachoweza kushika na kutikisa. Atakuwa anajifunza\r\npia kuhusu rangi, maumbo na ukubwa. Pia anajifunza kutokana na kelele za kitu\r\nanachochezea na kutokana na kukihisi kama ni nyororo au kigumu. \r\n\r\nMtoto wako\r\nataanza kuchekacheka na kutabasamu unapokunja sura kumchekesha na atafurahia\r\nmizaha mingi. Atafurahia pia kusikia sauti nyingi. Piga kidoko kwa ulimi,\r\nmluzi au toa sauti za wanyama. Atazipenda.\r\n\r\n", 
-  "source": null, 
+  "source": "43386657778548b08b8bc7089e3dc8e5", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
