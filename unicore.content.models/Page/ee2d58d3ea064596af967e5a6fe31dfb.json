@@ -6,18 +6,21 @@
   "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
   "created_at": "2014-10-26T15:53:07+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-18T16:07:17.717814+00:00", 
+  "modified_at": "2015-01-18T16:07:37.210500+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "571a11be3b7943e9afa4c525fd077518", 
+    "82aa6bf649a943dd98978edef993d129"
+  ], 
   "id": "ee2d58d3ea064596af967e5a6fe31dfb", 
   "content": "Zilizoundwa na BabyCenter \r\n\r\nMtoto wako sasa ataanza kutaka kujilisha chakula.\r\nLabda atashika kijiko unachomlishia, au atachukua chakula kutoka kwenye sahani\r\nyako? Jaribu kuweka vipande vidogo cha chakula laini kwenye sahani yake.\r\nAtafurahia kukichukua na kukila! Kumbuka kwamba wasichana wanahitaji kiasi\r\nsawa cha chakula kama wavulana. \r\n\r\nMtoto wako anaweza kuwa na hamu kubwa ya\r\nchakula, lakini meno sio mengi. Anza na chakula anachoweza kutafuna kwa ufizi\r\nwake au anachoweza kutembeza kwa urahisi mdomoni mwake. \r\n\r\nKatika umri huu watoto\r\nhuwa wadadisi. Anaweza kurusha vitu vya kuchezea au kuvuta nywele ya dadake!\r\nMtoto wako anajaribu vitu tu, si utundu. Hatakumbuka vitu kwa muda mrefu, kwa\r\nhivyo kumuadhibu hakutamaanisha chochote kwake kwa sasa. Lakini anaweza\r\nkukengeushwa kwa urahisi. Kwa hivyo mwonyeshe kitu cha kuchezea au mwimbie\r\nwimbo ili aache kufanya mambo ambayo hutaki afanye. \r\n\r\nUsiwe na wasiwasi ikiwa\r\nana mianya kati ya meno yake. Mianya hiyo kati ya meno ya mtoto wako huenda\r\nitafungika kufikia umri wa miaka mitatu, baada ya meno yake yote ya utotoni\r\nkuota. \r\n\r\nKwa sasa, mtoto wako anaweza kuwa na wasiwasi kuhusu wewe kuondoka.\r\nAmekuzoea sana kiasi kwamba kumwacha, hata kwa dakika moja, kunaweza\r\nkukamfanya alie. Hii ni kawaida, na kutengana naye kwa muda mfupi kutamsaidia\r\nmtoto wako kuzoeana na watu wengine. Muda si mrefu atatambua kwamba kila\r\nwakati huwa unamrudia. \r\n\r\nKwa sasa hisia za mtoto wako zinaanza kuwa wazi.\r\nAnaweza kuwapa busu akiwa mbali watu anaowajua. Anaanza pia kugundua hisia za\r\nwatu wengine na kuziiga. Akimwona mtu akilia, anaweza pia kuanza kulia.\r\n\r\n", 
-  "source": null, 
+  "source": "7fd74f3809b6450896eff636df9329d0", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
