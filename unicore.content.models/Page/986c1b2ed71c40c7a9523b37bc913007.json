@@ -6,18 +6,21 @@
   "primary_category": "1f67f026cd014dae96fb2dcb3ce94f4a", 
   "created_at": "2014-10-22T12:18:23+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-01-18T15:33:58.319538+00:00", 
+  "modified_at": "2015-01-18T15:34:52.878432+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "aa7c6b909629444d806ba22cbb57cf5c", 
+    "cf7db9153101444f999dc6e7b5e3b6ab"
+  ], 
   "id": "986c1b2ed71c40c7a9523b37bc913007", 
   "content": "Zilizoundwa na BabyCenter \r\n\r\nTumboni mwako, mtoto wako sasa anaamka na kulala\r\nkatika vipindi mahususi. Sasa anaweza kufumba na kufumbua macho yake, na\r\nkunyonya kidole chake au kidole gumba chake! Hii husaidia kukuza misuli yake\r\nya kunyonyea ili awe na nguvu za kutosha za kunyonya mara tu anapozaliwa.\r\nUbongo wake unakua kwa haraka sasa. \r\n\r\nSasa anaweza kujibu sauti. Mwanzoni,\r\natasikia tu sauti kutoka mwilini mwako, kama vile mapigo yako ya moyo. Lakini\r\npolepole ataanza kusikia kelele kutoka nje ya mwili wako. Mwimbie mtoto wako\r\nili asikie sauti yako. \r\n\r\nUnaweza kuhisi kama mimba yako iko juu karibu na mbavu\r\nzako, jambo ambalo litakufanya uhisi kukosa hewa. Kula kunaweza kuwa kugumu\r\nkwa sababu tumbo lako linaweza kuwa limefinywa na mtoto wako anayekua. Kula\r\nmilo midogomidogo mara nyingi zaidi na vitafunio kati ya milo. \r\n\r\nMtoto wako\r\nkadri anavyokua ndivyo tumbo lako linakua. Ngozi juu ya tumbo lako inavutika\r\nna inaweza kuwasha. Unaweza ukaona mistari myekundu kwenye tumbo, kiuno,\r\nmakalio na matiti yako. Hizi ni alama za kuvutika na zitafifia na kuwa alama\r\nhafifu baada ya kujifungua. Unaweza kupata mikakamao ya miguu au mishipa\r\nkuvimba. \r\n\r\nMatiti yako sasa yamejaa zaidi na ni mazito zaidi. Hii ni kwa sababu\r\nyanatayarishwa kutengeneza maziwa kwa ajili ya mtoto wako.\r\n\r\n", 
-  "source": null, 
+  "source": "c58e114726714c10821039ed9be8f03c", 
   "featured": false, 
   "author_tags": [], 
   "image": null, 
