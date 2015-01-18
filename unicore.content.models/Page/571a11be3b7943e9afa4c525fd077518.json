@@ -6,18 +6,21 @@
   "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
   "created_at": "2014-10-26T15:54:55+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-18T16:09:23.450627+00:00", 
+  "modified_at": "2015-01-18T16:09:42.258363+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "e009cce8c7d84f1c90922bb3d3c4d239", 
+    "ee2d58d3ea064596af967e5a6fe31dfb"
+  ], 
   "id": "571a11be3b7943e9afa4c525fd077518", 
   "content": "Zilizoundwa na BabyCenter \r\n\r\nKwa sasa, anaweza kuwa ameanza kutambaa, au\r\nkujiburuza kwa makalio yake. Mtoto wako anapoweza kujisogeza, ataanza kugonga\r\nvitu na kuanguka. Hii ni sehemu ya kukua. Furahia kumtazama akichunguza lakini\r\nhakikisha nyumba yako ni salama iwezekanavyo. \r\n\r\nMtoto wako anajifunza kuhusu\r\nvitu kwa kuvitikisa, kuvigonga, kuviangusha, na kuvirusha. Anajifunza kuhusu\r\nkile anachoweza kukifanyia kitu. \r\n\r\nMtoto wako ataanza kuonesha kuvutiwa na vitu\r\nunavyotumia. Polepole, ataanza kutumia vitu ipasavyo. Unaweza kumpata\r\nakijaribu kuchana nywele zake au kunywa kwa kutumia kikombe. \r\n\r\nMtoto wako\r\nanaweza kuona vyema zaidi sasa. Anakaribia kuona vizuri kama wewe. Sasa\r\nanaweza kuwatambua watu na vitu chumbani. Anaweza kuona kitu cha kuchezea\r\nupande mwingine wa chumba na atajaribu kutambaa kukielekea. Macho yake\r\nyamekaribia pia kupata rangi yake ya mwisho, ingawa unaweza kuona mabadiliko\r\nmadogo baadaye. \r\n\r\nHivi karibuni, mtoto wako ataanza kusimama na kutembea\r\nchumbani akiwa amejishikilia kwenye ukuta na samani.\r\n\r\n", 
-  "source": null, 
+  "source": "7f7f87aee5cd46d79d3c25912d9efb69", 
   "featured": true, 
   "author_tags": [], 
   "image": null, 
