@@ -1,0 +1,29 @@
+{
+  "subtitle": "A health facility is safest", 
+  "description": "A health facility is safest", 
+  "language": "eng_GB", 
+  "title": "Where to have my baby?", 
+  "primary_category": null, 
+  "created_at": "2015-02-05T12:42:16.095345+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-02-05T12:42:16.095622+00:00", 
+  "_version": {
+    "package_version": "0.3.3", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Created by BabyCenter\r\n\r\nAs your baby\u2019s arrival time gets closer, it is time to make plans.\r\n\r\nA  health facility is the safest place to have your baby. Work out how long it will take to get there. Talk with your family about transport and decide who you will have with you. Choose someone you trust.\r\n\r\nIf your baby comes too quickly, or you cannot get to a health facility in time for the birth:\r\n\r\n\u2022\tIt is vital to have a medically skilled attendant. Make sure your family knows how to contact the attendant. Your attendant may have a birth kit. It will contain a sheet, gloves, clean string and tools for cutting your baby's cord. \r\n\r\n\u2022\tIf you cannot get a birth kit, find a clean sheet to have your baby on and 2 cloths, one to dry your baby and one to wrap her in. Have a clean, sharp knife or a clean pair of scissors ready. \r\n\r\n\u2022\tYour attendant must wash her hands and you must wash between your legs. Get plenty of clean, safe, boiled water and soap ready.\r\n\r\n\u2022\tGo to the health facility as soon as you can after your baby is born\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "where-have-my-baby", 
+  "uuid": "accc877c75af44958fc54328c5fddf71"
+}
