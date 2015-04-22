@@ -6,15 +6,21 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-09T11:12:29+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T10:35:56.521403+00:00", 
+  "modified_at": "2015-04-22T10:36:04.852007+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "70b20f5cf137452b9ca7f1bd41308fb8", 
+    "198c2af4c7bb472bbc9047064c53f437", 
+    "86230db8d2594ea19c3d388f1c08c2d1", 
+    "ef360e1bbafc4c3192a83253cc003af1", 
+    "7c38ad995a8c40fe83db8d01412f1eeb"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\n\r\nIt is good, and reassuring, to have health check-ups in the weeks after your baby is born, to make sure both you and your baby are OK. \r\n\r\nVisit the doctor with your baby at least once during week 1 and again when she is 6 weeks old. \r\n\r\nTake your baby to a child doctor immediately if:\r\n\r\n\u2022 Her belly is too cold or too hot\r\n\r\n\u2022 She develops yellow eyes, hands and feet within the first day of his life\r\n\r\n\u2022 She refuses to feed or sucks poorly\r\n\r\n\u2022 She will not stop crying or if his cry sounds unusual\r\n\r\n\u2022 She has a fit, is drowsy and not moving much, or has bluish skin or nails\r\n\r\n\u2022 She is wheezing, grunting, or breathing quickly \r\n\r\n\u2022 She is vomiting after every feed for more than a day, or has a swollen belly\r\n\r\n\u2022 The area around your baby's cord stump is red or smelly\r\n\r\nThese are signs that your baby is unwell, and needs treatment quickly.\r\n\r\nRemember, boys and girls need the same amount of check-ups.\r\n", 
   "source": null, 
