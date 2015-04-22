@@ -6,15 +6,20 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-05T12:06:46+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T09:22:59.328853+00:00", 
+  "modified_at": "2015-04-22T09:23:04.891092+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "3e844bc554eb4822b7ff79f5317e6575", 
+    "b6a445ece5064ba6a8c232d8f55680e4", 
+    "9645f7e096134110ac6c7c3b440fa498", 
+    "201980018ba546caa079304d7f4cf5b4"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nIf anyone in your family has tuberculosis (TB), everyone should get tested. TB can spread easily but it is curable with the right treatment. Treatment will protect you and your baby and it is free from some government hospitals. \r\n\r\nBe alert to the signs of TB in your own body, and in those around you, TB is an illness which can be very dangerous. It spreads through the air by coughs and sneezes. It can stay in the air for a long time. \r\n\r\nIf you have a cough for more than 2 weeks or have lost weight unexpectedly, see a health worker. They will be able to check if you have TB, and they can give you the right medicines. \r\n\r\nIf you finish all the medicines, you can kill TB completely. Stopping taking them before you finish all the medication you are given can make the TB come back.\r\n\r\nYou can catch TB more easily when you are pregnant. Try to take extra care by eating well and staying away from crowded areas and people who are coughing and sneezing.\r\n\r\nIf anyone in your family has TB, they will stop being infectious after taking medication for 2 weeks. Ask them to cover their mouth and nose while coughing or sneezing, and to wash their hands regularly. \r\n\r\nRemember, TB is curable if it is treated quickly.\r\n", 
   "source": null, 
