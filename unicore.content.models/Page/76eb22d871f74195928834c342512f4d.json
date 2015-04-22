@@ -6,15 +6,22 @@
   "primary_category": null, 
   "created_at": "2015-02-05T12:33:38+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T09:32:55.360400+00:00", 
+  "modified_at": "2015-04-22T09:33:07.235084+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "eee6462ec4384442be306f88b7822b1a", 
+    "1e4ee8e5f43446e7be907ebbe0b07547", 
+    "01fe8850943c420bb47752adc6c2bbfa", 
+    "720c80c794d54a859ed4b5ae5dcd3c01", 
+    "a94bdd597e674ff6b1d8bca02f931086", 
+    "422b62128d2640f79a6abbd960dbb91a"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nFolic acid is a vitamin. It helps to protect your baby from developing faults in his spine, called spina bifida. You can get folic acid by eating the right food while you are pregnant. But even if you eat these foods, you will still need to take the folic acid tablets.\r\n\r\nIt's good to eat plenty of dark green vegetables, beans, eggs and oranges. These foods contain folic acid.\r\n\r\nWhen you are cooking, try to cook in a covered pan with the smallest amount of water possible. You could try to leave the vegetables a bit crunchy. This preserves their goodness. \r\n\r\nIn the first 3 months of your pregnancy, your baby's brain and nerve systems are growing fast. Your body needs plenty of folic acid at this time. Start taking a daily folic acid tablet early in your pregnancy. You may be able to get them at a health facility. Go as soon as you think you are pregnant.\r\n", 
   "source": null, 
