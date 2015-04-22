@@ -6,15 +6,18 @@
   "primary_category": "5e354c9c57df4314b7e1214a733bbcdf", 
   "created_at": "2015-02-05T12:30:43+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T09:30:57.547196+00:00", 
+  "modified_at": "2015-04-22T09:31:04.060913+00:00", 
   "_version": {
     "package_version": "0.3.3", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "422b62128d2640f79a6abbd960dbb91a", 
+    "9645f7e096134110ac6c7c3b440fa498"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nBad, stale or undercooked food can make you sick. Try to cook fresh meals every day. Keep your cooking and eating area clean and store food in a cool, dry place.\r\n\r\n\u2022\tAlways use clean, safe water to wash and cook food items.\r\n\r\n\u2022\tCook all meat and chicken well, until it has no pink bits in the centre and the juices run clear. \r\n\r\n\u2022\t Cook eggs well, until they are firm. Boil milk to kill any germs.\r\n\r\n\u2022\tIf you get your food from food stalls, select stalls with clean work areas. Make sure that the stall you choose is popular, so that you can be sure that food has not been sitting out for too long and has been safe for others. \r\n\r\n\u2022\tWash your hands with soap before you prepare meals, after using the toilet and after handling animals.\r\n\r\n\u2022\tWash all dishes and cooking areas with soapy water to get rid of any food remains.\r\n\r\n\u2022\tStore all utensils in a clean and, if possible, covered area.\r\n\r\nIf you have sores or cuts on your hands, keep them clean and covered with a clean cloth.\r\n", 
   "source": null, 
