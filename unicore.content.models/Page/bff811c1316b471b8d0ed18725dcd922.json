@@ -6,15 +6,19 @@
   "primary_category": "4eafe002ebea4c7a97a7743183f70de1", 
   "created_at": "2015-02-09T12:16:31+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-22T11:10:52.811313+00:00", 
+  "modified_at": "2015-04-22T11:10:57.478538+00:00", 
   "_version": {
     "package_version": "0.3.5", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "7fd4720d7e36446fad88366a54747f4e", 
+    "e8c0f7b813094c269123a2cb8c651f1c", 
+    "60d36fa9e2ad4aa4aba97015ec779b19"
+  ], 
   "id": null, 
   "content": "Created by BabyCenter\r\n\r\nMany babies make their first smile when they are between 6 and 8 weeks old. But your baby may smile before or after this time.\r\n\r\nIf you want to encourage your baby to smile, find a time when she is calm and alert. Find a moment when your baby looks at you and examines your face.\r\n\r\nHold your baby opposite you and talk to her, with your faces close. If your baby does not like this, try holding her a little further away.\r\n\r\nShe may stare at you for a long time first, so keep talking to her quietly and you may be rewarded with that first grin!\r\n\r\nAfter she has learnt to smile, your baby will soon be able to laugh!\r\n\r\nMost babies start to laugh when they are between 2 and 4 months old. Try making silly faces and sounds, or tickling her.\r\n", 
   "source": null, 
