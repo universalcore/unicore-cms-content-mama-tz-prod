@@ -6,12 +6,12 @@
   "primary_category": "eb5f5a1396394982938deda3e21edfd0", 
   "created_at": "2014-10-26T15:56:42+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-01-18T16:12:06.417376+00:00", 
+  "modified_at": "2016-03-10T14:11:32.577356+00:00", 
   "_version": {
     "package_version": "0.2.5", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 22:59:56) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 1, 
+  "position": 3, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "umri-wa-miezi-9", 
   "uuid": "e009cce8c7d84f1c90922bb3d3c4d239"
